@@ -8,6 +8,6 @@ requires = [
     "wordcloud",
     "pillow",
     "matplotlib",
-    "pandas"
+    "pandas",
 ]
 build-backend = "setuptools.build_meta"
